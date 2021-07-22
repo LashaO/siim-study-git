@@ -12,7 +12,7 @@ import random
 import PIL
 import cv2
 import matplotlib
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 #matplotlib.use('WXAgg')
 #matplotlib.use('Qt4Agg')
 #matplotlib.use('Qt5Agg')
